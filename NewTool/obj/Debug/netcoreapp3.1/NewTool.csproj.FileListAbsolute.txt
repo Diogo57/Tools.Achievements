@@ -1,0 +1,134 @@
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.exe
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.deps.json
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.runtimeconfig.json
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.runtimeconfig.dev.json
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Enums.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.ORM.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.BaseServer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.WorldServer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\zlib.net.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\SwfLib.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Messages.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Types.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\TreeSharp.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Core.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Enums.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.ORM.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.BaseServer.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.WorldServer.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\zlib.net.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Messages.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Types.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\TreeSharp.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csprojAssemblyReference.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.GenerateResource.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.AssemblyInfoInputs.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.AssemblyInfo.cs
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.CopyComplete
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.genruntimeconfig.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\Tools.Achievements.Form1.resources
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.exe
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.deps.json
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.runtimeconfig.json
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.runtimeconfig.dev.json
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NewTool.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Enums.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.ORM.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.BaseServer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.WorldServer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\zlib.net.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\SwfLib.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Messages.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Types.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\TreeSharp.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Core.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Enums.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.ORM.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.BaseServer.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.Server.WorldServer.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\zlib.net.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Messages.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\Stump.DofusProtocol.Types.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\bin\Debug\netcoreapp3.1\TreeSharp.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csprojAssemblyReference.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\Tools.Achievements.Form1.resources
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.GenerateResource.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.AssemblyInfoInputs.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.AssemblyInfo.cs
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.CopyComplete
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.genruntimeconfig.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csprojAssemblyReference.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\Tools.Achievements.Form1.resources
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.GenerateResource.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.AssemblyInfoInputs.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.AssemblyInfo.cs
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.csproj.CoreCompileInputs.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.dll
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\NewTool\obj\Debug\netcoreapp3.1\NewTool.pdb

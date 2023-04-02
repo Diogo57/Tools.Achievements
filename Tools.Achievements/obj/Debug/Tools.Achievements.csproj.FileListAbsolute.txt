@@ -1,0 +1,407 @@
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csprojAssemblyReference.cache
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Form1.resources
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Properties.Resources.resources
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.GenerateResource.cache
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe.config
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\NLog.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\zlib.net.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\SharpRaven.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\NLog.xml
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.xml
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe.config
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CopyComplete
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.pdb
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\System.Drawing.Common.dll
+C:\Users\Cyrille\Source\Repos\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe.config
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\NLog.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\zlib.net.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\SharpRaven.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Classes.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\System.Drawing.Common.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.xml
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.dll.config
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.dll.config
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\NLog.xml
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Classes.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.xml
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csprojAssemblyReference.cache
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe.config
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Form1.resources
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Properties.Resources.resources
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.GenerateResource.cache
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CopyComplete
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.pdb
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Nlog-net.dll
+C:\Users\cyril\Desktop\Dofus TOOL\Tools.Achievements\Tools.Achievements\bin\Debug\Nlog-net.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csprojAssemblyReference.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Form1.resources
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Properties.Resources.resources
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.GenerateResource.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe.config
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe.config
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\netstandard.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.AppContext.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Console.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Data.Common.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Globalization.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.Compression.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.Pipes.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Http.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Ping.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Requests.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Security.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Sockets.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.ObjectModel.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Reflection.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Resources.Reader.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Resources.Writer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Claims.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Principal.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.SecureString.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Text.Encoding.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Thread.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Timer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.ValueTuple.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XPath.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\NLog.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\zlib.net.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\SwfLib.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\MySql.Data.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Types.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Driver.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Bson.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Drawing.Common.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\ServiceStack.Text.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\SharpCompress.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Google.Protobuf.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Renci.SshNet.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Async.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\DnsClient.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Nlog-net.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\zlib.net.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Types.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.pdb
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CopyComplete
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Diogo Santos\Desktop\Piousty multi tool\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe.config
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.exe
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Tools.Achievements.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\netstandard.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.AppContext.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Console.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Data.Common.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Globalization.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.Compression.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.Pipes.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Http.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Ping.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Requests.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Security.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.Sockets.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.ObjectModel.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Reflection.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Resources.Reader.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Resources.Writer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Claims.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Principal.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.SecureString.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Text.Encoding.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Thread.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Threading.Timer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.ValueTuple.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XPath.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\MySql.Data.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Google.Protobuf.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Renci.SshNet.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\NLog.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\zlib.net.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\SwfLib.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Types.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Driver.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Bson.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\protobuf-net.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Drawing.Common.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\ServiceStack.Text.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Xml.XPath.XmlDocument.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\SharpCompress.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\System.Linq.Async.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\DnsClient.dll
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Nlog-net.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Core.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.D2oClasses.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.ORM.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.BaseServer.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.Server.WorldServer.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\zlib.net.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Messages.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\Stump.DofusProtocol.Types.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\bin\Debug\TreeSharp.pdb
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csprojAssemblyReference.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe.config
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Form1.resources
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Properties.Resources.resources
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.GenerateResource.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CopyComplete
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe
+C:\Users\Diogo Santos\Desktop\Succes\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.pdb
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csprojAssemblyReference.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe.config
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Form1.resources
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.Properties.Resources.resources
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.GenerateResource.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.csproj.CoreCompileInputs.cache
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.exe
+C:\Users\33607\Desktop\NewTool\Tools.Achievements\Tools.Achievements\obj\Debug\Tools.Achievements.pdb
